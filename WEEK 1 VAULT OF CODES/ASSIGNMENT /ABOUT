@@ -1,0 +1,21 @@
+ASSIGNMENT 1
+
+Temperature Converter
+Write a Python function named convert_temperature that converts temperatures between Fahrenheit and Celsius.
+The function should take two arguments: the temperature to convert and the unit of the input temperature ('F' for Fahrenheit, 'C' for Celsius).
+The function should return the converted temperature. 
+Requirements: If the input unit is 'F', convert the temperature to Celsius.
+If the input unit is 'C', convert the temperature to Fahrenheit. 
+Round the result to 2 decimal places.
+Formulae: -Celsius to Fahrenheit: (C * 9/5) + 32 -Fahrenheit to Celsius: (F - 32) * 5/9 
+
+                                                                                                          
+                                                                                                          
+ASSIGNMENT 2
+                                                                                                  
+To learn about the basics of AI & prompt engineering and to get an overview of the subjects
+- research and create a presentation  using Microsoft PowerPoint Presentation should include:
+-Introduction to AI & Prompt Engineering 
+-Importance & Applications 
+-Key concepts
+-Future Scope
