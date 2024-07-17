@@ -1,0 +1,8 @@
+Task 1: Advanced Prompt Engineering Techniques 
+Research and Summarize: Explore advanced prompt engineering techniques such as zero-shot, few-shot, and chain-of-thought prompting.Describe each technique and its applications.
+
+
+Task 2: Design and Experiment Prompt Design Experiment: 
+-Select an AI model available to you for experimentation (e.g., GPT-3.5 or newer versions, if accessible).
+-Design a set of prompts that illustrate zero-shot, few-shot, and chain-of-thought techniques. Choose a complex topic or task for these prompts (e.g., solving a math problem, explaining a scientific concept, or providing advice on a niche topic).
+-Document the AI's responses to each prompt type and analyze the effectiveness and limitations observed in each approach.
