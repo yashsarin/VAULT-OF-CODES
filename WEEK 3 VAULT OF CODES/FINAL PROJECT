@@ -1,0 +1,3 @@
+Building a Recipe Generator
+
+In this experiment we will use character-based RNN to generate cooking recipes. We will try to teach our RNN to generate recipe name, ingredients and cooking instructions for us.I don't expect the RNN to do a strong connection between list of ingredients and cooking instructions but I do expect RNN to learn English grammar and punctuation in couple of hours and to generate some meaningful recipe names along with real food ingredients and cooking instructions.For this experiment we will use Tensorflow v2 with its Keras API.
